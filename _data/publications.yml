@@ -1,16 +1,15 @@
 main:
 
+  - title: evolution of frogs
+    authors: me
+    journal: math. bio.
+    journal_short: math-bio
+    year: 2030
+  
   - title: Descartes' rule of signs for finite fields
     authors: Gary Fishman
     notes: in preparation
     image: ./assets/img/teaser_example.png
-
-  - title: Vector encoding of phylogenetic trees by ordered leaf attachment
-    authors: Harry Richman, Cheng Zhang, Erick Matsen
-    arxiv: https://arxiv.org/abs/2503.10169
-    code: https://github.com/matsengrp/ola-encoding
-    image: ./assets/img/ola_tree_thumb.png
-    notes: submitted
 
   - title: The floor quotient partial order
     authors: Jeffrey Lagarias, Harry Richman
